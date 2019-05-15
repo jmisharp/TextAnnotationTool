@@ -1,2 +1,2 @@
-# TextAnnotationTool
-Tool for annotating txt files for AWS Comprehend
+# Text Annotation Tool
+This tool is made for annotating txt files for AWS Comprehend custom entities.
